@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently studying MSc in Computing
 - 💞️ I’m looking to collaborate on Node projects
-- 📫 How to reach me zilvinas_baltinas@yahoo.com
+- 📫 How to reach me majamisgerai@yahoo.co.uk
 
 <!---
 Zil456/Zil456 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
