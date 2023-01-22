@@ -7,6 +7,10 @@
 * I am currently deepening my knowledge of React.js
 * You can reach me on LinkedIn 📫: https://www.linkedin.com/in/zilvinas-baltinas/
 
+Below, you will find some of my recent projects: #Uprecipe.
+
+#Uprecipe is a web app that allows users to search for as well as create their own recipes. Built using React, Node.js, Express, MongoDB with mongoose, Tailwind and Auth0. 
+
 
 <!---
 Zil456/Zil456 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
